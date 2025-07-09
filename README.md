@@ -13,7 +13,7 @@
 </style>
 # Hi, I'm Amirali! 👋
 ##### I've always wanted to have my own website. This thought often crossed my mind when I was younger, but I couldn't make it happen, not until I became a front-end developer and discovered the power to build one. I used to dream of launching it.
-![](https://pixel-profile.vercel.app/api/github-stats?username=amiralishoja&screen_effect=true&pixelate_avatar=false&theme=crt&theme=crt&color=%23ffffffFF&hide=contributions)
+![](/stat.png)
 <div class="wrapper" style="display: flex; gap: 25px;">
     <img class="skills" src="https://github-readme-tech-stack.vercel.app/api/cards?title=My+Skills&borderRadius=5&fontFamily=monospace&fontSize=20&showBorder=false&lineHeight=6&lineCount=2&theme=github_dark_green&gap=6&width=420&hideTitle=true&bg=%230D1117&badge=%23161B22&border=%230D1117&titleColor=%23ffffff&line1=html5%2CHTML%2CE34F26%3Bcss%2CCSS%2C663399%3Bjavascript%2CJAVA+SCRIPT%2CF7DF1E%3Bgit%2Cgit%2CF05032%3B&line2=sass%2CSASS%2CCC6699%3Btailwindcss%2CTAILWIND+CSS%2C06B6D4%3Breact%2CREACT%2C61DAFB%3B" alt="My Skills" />
     <div class="social" style="display: flex; flex-wrap: wrap; column-gap: 8px; height: max-content;">
