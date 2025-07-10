@@ -1,4 +1,4 @@
-![](/stat.png)
+![](https://pixel-profile.vercel.app/api/github-stats?username=amiralishoja&screen_effect=true&pixelate_avatar=false&background=radial-gradient%28circle+at+50%25+50%25%2C+%23151515ff+0%25%2C+%23020202ff+95%25%29&color=%2300FF00FF&hide=contributions)
 
 # Hi, I'm Amirali! 👋
 
