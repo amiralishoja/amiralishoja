@@ -5,7 +5,8 @@
 <p>I've always wanted to have my own website. This thought often crossed my mind when I was younger, but I couldn't make it happen, not until I became a front-end developer and discovered the power to build one. I used to dream of launching it.</p>
 
 <div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My+Skills&align=center&titleAlign=center&borderRadius=0&fontSize=22&showBorder=false&lineHeight=6&lineCount=2&theme=github_dark_green&gap=6&width=557&bg=%23000000&badge=%23161B22&border=%23000000&titleColor=%2300FF00&line1=html5%2CHtml%2CE34F26%3Bcss%2CCss%2C663399%3Bjavascript%2CJava+Script%2CF7DF1E%3Bgit%2CGit%2CF05032%3B&line2=sass%2CSass%2CCC6699%3Btailwindcss%2CTailwind+Css%2C06B6D4%3Breact%2CReact%2C61DAFB%3B" alt="My Skills" />
+  <img width="558" src="https://github-readme-tech-stack.vercel.app/api/cards?title=My+Skills&align=center&titleAlign=center&borderRadius=0&fontSize=22&showBorder=false&lineHeight=6&lineCount=2&theme=github_dark_green&gap=6&width=420&bg=%23000000&badge=%23161B22&border=%23000000&titleColor=%2300FF00&line1=html5%2CHtml%2CE34F26%3Bcss%2CCss%2C663399%3Bjavascript%2CJava+Script%2CF7DF1E%3Bgit%2CGit%2CF05032%3B&line2=sass%2CSass%2CCC6699%3Btailwindcss%2CTailwind+Css%2C06B6D4%3Breact%2CReact%2C61DAFB%3B" alt="My Skills" />
+  
   
   <a href="https://shoja.liara.run"><img src="https://img.shields.io/badge/My_Portfolio-%23ffa000.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Portfolio"/></a>
   <a href="https://t.me/amirali_shoja"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
