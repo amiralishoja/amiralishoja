@@ -9,7 +9,7 @@
 
 <p></p>
 
-<a href="https://amiralishoja.github.io/PortfolioLandingProject/dist/"><img src="https://img.shields.io/badge/My_Portfolio-%23ffa000.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Portfolio"/></a>
+<a href="https://amiralishoja.ir"><img src="https://img.shields.io/badge/My_Portfolio-%23ffa000.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Portfolio"/></a>
 <a href="https://t.me/amirali_shoja"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="mailto:amiralishoja.info@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://open.spotify.com/user/3172y5iz5tv42jhub36opkevig2i?si=fe6cb907bdc04e4e"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a>
